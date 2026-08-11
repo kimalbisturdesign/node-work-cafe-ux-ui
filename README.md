@@ -1,7 +1,11 @@
 # Nodo Work Café ☕
 ### UX/UI Case Study | 2026
 
+![Nodo Work Café UX/UI Case Study](Images/Cover.png)
+
 Nodo Work Café is a responsive web and mobile experience designed to simplify workspace reservations and coffee orders through an AI-powered assistant.
+
+![Project Overview](Images/Overview.png)
 
 ## 👩‍💻 My Role
 UX/UI Designer
@@ -25,10 +29,35 @@ The goal was to explore how an AI assistant could simplify these tasks while mai
 - Usability Testing
 - Iteration
 
+### 🔎 Research
+
+![UX Research](Images/Research.png)
+
+### 🧭 User Flow
+
+![User Flow](Images/User%20Flow.png)
+
+### 🎨 Design System
+
+![Design System](Images/Design%20System.png)
+
+## ✨ Final Design
+
+### Mobile Experience
+
+![Mobile Experience](Images/Mobile%20Experience.png)
+
+### Desktop Experience
+
+![Desktop Experience](Images/Desktop%20Experience.png)
+
 ## 🛠 Tools
 Figma · FigJam · Maze · Notion
 
 ## 🧪 Usability Testing
+
+![Usability Testing](Images/User%20Test.png)
+
 I conducted a usability test in Maze with participants to evaluate the workspace reservation flow.
 
 The testing helped identify opportunities to:
